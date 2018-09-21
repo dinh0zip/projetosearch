@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    background-color: lightgray;
+    height: 100vh;
+    margin: 0px;
+
+}
+
+.srcLogin {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    border: solid 5px black;
+
+}
+
+.srcLogin input {
+    height: 30px;
+    width: 70px;
+}
+div p {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    background-color: brown;
+}
